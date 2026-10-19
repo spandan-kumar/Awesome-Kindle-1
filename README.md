@@ -35,6 +35,7 @@
 
 - [KOReader](https://koreader.rocks/) - An alternative, highly customisable, E-Book reader
 - [Android on Kindles](https://github.com/Ooonana/Guide-to-installing-android-on-kindle) - Replace the OS completely on supported models
+- [PageDrop](https://github.com/spandan-kumar/PageDrop) - Android app to find books and send them to a jailbroken Kindle running KOReader over Wi-Fi
 
 ### Quality of Life
 
